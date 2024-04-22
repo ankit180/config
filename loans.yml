@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to ankitbank accounts related Local APIs"
+  contactDetails:
+    name: "Ankit Kumar - Dev Lead"
+    email: "ankit@ankitbank.com"
+
+  onCallSupport:
+    -(555)234-5678
+    -(555)345-6789

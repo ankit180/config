@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to ankitbank accounts related prod APIs"
+  contactDetails:
+    name: "Priti Gupta - Prod Lead For Cards"
+    email: "priti@ankitbank.com"
+
+  onCallSupport:
+    -(666)234-5678
+    -(666)345-6789

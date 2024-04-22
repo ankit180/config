@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to ankitbank accounts related QA APIs"
+  contactDetails:
+    name: "Smitha Ray - QA Lead"
+    email: "smitha@ankitbank.com"
+
+  onCallSupport:
+    -(666)234-5678
+    -(666)345-6789
