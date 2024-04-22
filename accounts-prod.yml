@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to ankitbank accounts related production APIs"
   contactDetails:
-    name: "Priti Gupta - Prod Lead"
+    name: "Priti Gupta - Prod Lead for accounts"
     email: "priti@ankitbank.com"
 
   onCallSupport:
